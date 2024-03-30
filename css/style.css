@@ -1,0 +1,16 @@
+.wrapper {
+    padding: 30px 15px;
+    border-right: 1px solid gray;
+    border-radius: 0;
+}
+.wrapper h2 {
+    /* color: skyblue; */
+}
+.wrapper h3 {
+    color: #b00000;
+}
+.wrapper2 {
+    padding: 40px 0;
+    border: 8px solid #b00000;
+    border-radius: 50%;
+}
